@@ -1,1 +1,3 @@
+This image is georeferenced. If you open it in some Geographic Information System (GIS), certify that all the extensions are in the same folder.
+
 
