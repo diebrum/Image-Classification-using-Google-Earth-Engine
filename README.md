@@ -29,4 +29,4 @@ What this script makes in some basic steps:
 10- Exports the classified image to Google Drive.
 
 
-In the repository i put the exported result. The file name is classification.tiff.
+In the repository i put the exported result. The file name is classification.tif.
