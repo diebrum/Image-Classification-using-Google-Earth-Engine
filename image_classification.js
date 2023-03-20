@@ -93,6 +93,7 @@ var median = collection.median();
 // Clip to the output image to the Nevada and Arizona state boundaries.
 var clipped = median.clipToCollection(buffered);
 
+
 // Display the result.
 Map.setCenter(-50.7578138,  -29.365533, 11);
 var visParams = {bands: ['B3', 'B3', 'B1'], max:0.3 /*gain: [1.4, 1.4, 1.1]*/};
