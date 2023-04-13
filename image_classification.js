@@ -65,7 +65,8 @@ var agua = /* color: #d63000 */ee.Geometry.MultiPoint(),
 		   
 		   
 		   
-		   
+
+
 var stations = [
   ee.Feature(
       ee.Geometry.Point(-50.7578138,  -29.365533), {'name': 'Canela'}),
